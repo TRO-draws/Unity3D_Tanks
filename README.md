@@ -1,6 +1,7 @@
 # Unity3D_Tanks
 <p>
 created by Alex Fagnant</p>
+<p>This is a two player game where the goal is to destroy the other tank</p>
 
 <p>
 <b>players: 2 </p></b>
