@@ -4,7 +4,7 @@
 <p>
 <b>players: 2 </p></b>
 
-<p>Controls [player 1]</p>
+<p>style="color:blue;">Controls [player 1]</p>
 <p>w: forward</p>
 <p>s: backward</p>
 <p>a: left</p>
