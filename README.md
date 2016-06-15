@@ -1,8 +1,8 @@
 # Unity3D_Tanks
 
-Unity3D Tanks!
+<h1>Unity3D Tanks!</h1>
 <p>
-players: 2 </p>
+<b>players: 2 </p></b>
 
 <p>Controls [player 1]</p>
 <p>w: forward</p>
