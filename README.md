@@ -1,6 +1,6 @@
 # Unity3D_Tanks
 
-<h1>Unity3D Tanks!</h1>
+
 <p>
 <b>players: 2 </p></b>
 
