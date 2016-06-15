@@ -13,7 +13,7 @@
 
 <br></br>
 
-<h3>Controls [player 2]
+<h3>Controls [player 2]<h3>
 <p>i: forward</p>
 <P>k: backward</p>
 <p>j: left</p>
