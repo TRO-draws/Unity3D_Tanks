@@ -2,14 +2,16 @@
 
 Unity3D Tanks!
 <p>
-players: 2
-Controls [player 1]
-w: forward
-s: backward
-a: left
-d: right
-space bar: fire
-</p>
+players: 2 </p>
+
+<p>Controls [player 1]</p>
+<p>w: forward</p>
+<p>s: backward</p>
+<p>a: left</p>
+<p>d: right</p>
+<p>space bar: fire</p>
+
+
 <p>
 Controls [player 2]
 i: forward
