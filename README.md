@@ -23,3 +23,5 @@ created by Alex Fagnant</p>
 <b><p>;</b>: fire</p>
 
 ![Alt text](https://github.com/TRO-draws/Unity3D_Tanks/blob/master/Screenshots/1.png)
+<br></br>
+<p><i>To make a game like this, go to Unity3D.com, download unity, and then go to learn and watch a tutorial of a gmae that looks interesting</i><p>
